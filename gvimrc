@@ -6,7 +6,7 @@
 " Authors: http://vim.wikia.com/wiki/Vim_on_Freenode
 
 " ########################################################################
-" ITNITIAL WINDOWS SIZE
+" ITNITIAL WINDOW SIZE
 " ########################################################################
 
 
